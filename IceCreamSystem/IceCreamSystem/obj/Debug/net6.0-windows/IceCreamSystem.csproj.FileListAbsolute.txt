@@ -1,0 +1,17 @@
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\bin\Debug\net6.0-windows\IceCreamSystem.exe
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\bin\Debug\net6.0-windows\IceCreamSystem.deps.json
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\bin\Debug\net6.0-windows\IceCreamSystem.runtimeconfig.json
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\bin\Debug\net6.0-windows\IceCreamSystem.dll
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\bin\Debug\net6.0-windows\IceCreamSystem.pdb
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.csproj.AssemblyReference.cache
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.Form1.resources
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.csproj.GenerateResource.cache
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.AssemblyInfoInputs.cache
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.AssemblyInfo.cs
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.csproj.CoreCompileInputs.cache
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.dll
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\refint\IceCreamSystem.dll
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.pdb
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\IceCreamSystem.genruntimeconfig.cache
+C:\Users\HAKAN\Desktop\VS\IceCreamSystem\IceCreamSystem\obj\Debug\net6.0-windows\ref\IceCreamSystem.dll
